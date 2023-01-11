@@ -18,35 +18,35 @@
 3. Алгоритмы 
 - Движение ракетки
 
-![](https://github.com/OneBumBot/Lab4_Pong/tree/main/IMAGES/Движение%20ракетки.png)
+![](https://github.com/OneBumBot/Lab4_Pong/blob/main/IMAGES/Движение%20ракетки.png)
 
 - Дисконнект
 
-![](https://github.com/OneBumBot/Lab4_Pong/tree/main/IMAGES/Дисконнект.png)
+![](https://github.com/OneBumBot/Lab4_Pong/blob/main/IMAGES/Дисконнект.png)
 
 - Инициализация мультиплеера
 
-![](https://github.com/OneBumBot/Lab4_Pong/tree/main/IMAGES/Инициализация%20мультиплеера.png)
+![](https://github.com/OneBumBot/Lab4_Pong/blob/main/IMAGES/Инициализация%20мультиплеера.png)
 
 - Инициализация синглплеера
 
-![](https://github.com/OneBumBot/Lab4_Pong/tree/main/IMAGES/Инициализация%20синглплеера.png)
+![](https://github.com/OneBumBot/Lab4_Pong/blob/main/IMAGES/Инициализация%20синглплеера.png)
 
 - Отмена игры
 
-![](https://github.com/OneBumBot/Lab4_Pong/tree/main/IMAGES/Отменить%20игру.png)
+![](https://github.com/OneBumBot/Lab4_Pong/blob/main/IMAGES/Отменить%20игру.png)
 
 - Подключение пользователя к лобби
 
-![](https://github.com/OneBumBot/Lab4_Pong/tree/main/IMAGES/Подключение%20пользователя%20в%20лобби.png)
+![](https://github.com/OneBumBot/Lab4_Pong/blob/main/IMAGES/Подключение%20пользователя%20в%20лобби.png)
 
 - Приглашение в мультиплеер
 
-![](https://github.com/OneBumBot/Lab4_Pong/tree/main/IMAGES/Приглашение%20в%20мультиплеер.png)
+![](https://github.com/OneBumBot/Lab4_Pong/blob/main/IMAGES/Приглашение%20в%20мультиплеер.png)
 
 - Игровой цикл
 
-![](https://github.com/OneBumBot/Lab4_Pong/tree/main/IMAGES/игровой%цикл.png)
+![](https://github.com/OneBumBot/Lab4_Pong/blob/main/IMAGES/игровой%цикл.png)
 
 
 ## Вывод
