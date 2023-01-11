@@ -46,7 +46,7 @@
 
 - Игровой цикл
 
-![](https://github.com/OneBumBot/Lab4_Pong/blob/main/IMAGES/игровой%цикл.png)
+![](https://github.com/OneBumBot/Lab4_Pong/blob/main/IMAGES/игровой%20цикл.png)
 
 
 ## Вывод
